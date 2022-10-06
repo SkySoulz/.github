@@ -1,7 +1,7 @@
 <h6 align="center">Welcome to</h6>
 <h1 align="center">SkySoulz</h1>
 <p align="center">
-  <img src="../images/banner.jpg" width="800" height="400"/>
+  <img src="https://github.com/SkySoulz/.github/blob/main/images/banner.jpg" width="800" height="400"/>
 </p>
 
 
